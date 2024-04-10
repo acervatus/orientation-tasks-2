@@ -1,0 +1,4 @@
+Assigment 1
+a. An arrival event needs to create a new arrival event, so that it can be added to the arrival event list.
+
+b. b1 event should be generated at the start of the service.
